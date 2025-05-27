@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-automation-calculator/static/css/main.1470e3f9.css",
-    "main.js": "/ai-automation-calculator/static/js/main.43c20c0b.js",
+    "main.js": "/ai-automation-calculator/static/js/main.533e867c.js",
     "static/js/453.ad6eb26e.chunk.js": "/ai-automation-calculator/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/ai-automation-calculator/index.html",
     "main.1470e3f9.css.map": "/ai-automation-calculator/static/css/main.1470e3f9.css.map",
-    "main.43c20c0b.js.map": "/ai-automation-calculator/static/js/main.43c20c0b.js.map",
+    "main.533e867c.js.map": "/ai-automation-calculator/static/js/main.533e867c.js.map",
     "453.ad6eb26e.chunk.js.map": "/ai-automation-calculator/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1470e3f9.css",
-    "static/js/main.43c20c0b.js"
+    "static/js/main.533e867c.js"
   ]
 }
